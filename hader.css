@@ -1,9 +1,46 @@
+nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
 .banner {
+  clear: both;
   text-align: center;
   background-color: black;
   color: white;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 130%;
   font-wegiht: bolder;
+}
+
+article {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 50%;
+  text-decoration: none;
+}
+
+#bio {
+  float: left;
+  background-color: lightgreen;
+}
+
+h5 {
+  text-align: center;
+  padding-top: 2em;
+  font-size: 120%;
+  background-color: lightgreen;
+}
+
+#haderpic {
+  width: 30%;
+  float: left;
+}
+
+form {
+  background-color: lightgreen;
+  text-align: center;
 }
 /*# sourceMappingURL=hader.css.map */
