@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,OAAO,CAAC;EACJ,UAAU,EAAE,MAAM;EAClB,gBAAgB,EAAE,KAAK;EACvB,KAAK,EAAE,KAAK;EACZ,WAAW,EAAE,yDAAyD;EACtE,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,MAAM;CAAG",
+    "sources": [
+        "hader.sass"
+    ],
+    "names": [],
+    "file": "hader.css"
+}
