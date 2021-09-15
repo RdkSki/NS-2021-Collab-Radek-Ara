@@ -1,8 +1,30 @@
 nav {
-    display: block;
-    background-color: aqua;
-    color: brown;
-  }
-  .content {
-    display: inline;
-  }
+  background-color: aqua;
+  color: brown;
+  font-size: large;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  display: block;
+}
+
+.content {
+  display: inline;
+}
+
+body {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-align: center;
+}
+
+.banner {
+  display: block;
+  text-align: center;
+  background-color: black;
+  color: aliceblue;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  clear: both;
+}
+
+article {
+  background-color: bisque;
+}
+/*# sourceMappingURL=styles.css.map */
